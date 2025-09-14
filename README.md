@@ -1,6 +1,8 @@
 # Sistema de Previsão de Turnover para Academias
 
-[![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow.svg)](https://shields.io)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![PyTorch](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white)
 
 ## 📖 Sobre o Projeto
 
