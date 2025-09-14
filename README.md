@@ -1,7 +1,8 @@
 # Sistema de Previsão de Turnover para Academias
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![PyTorch](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SciKit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white)
 
 ## 📖 Sobre o Projeto
